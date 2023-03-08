@@ -12,5 +12,7 @@ exit from psql
 
 -   `exit`
 -   `docker-compose stop`
-    delete container
+
+delete container
+
 -   `docker-compose down`
