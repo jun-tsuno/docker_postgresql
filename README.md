@@ -7,7 +7,9 @@ start docker
 -   `docker container exec -it mypg bash`
 -   `psql -p 5432 -U admin -d test_db`
 -   `\l`
-    exit from psql
+
+exit from psql
+
 -   `exit`
 -   `docker-compose stop`
     delete container
